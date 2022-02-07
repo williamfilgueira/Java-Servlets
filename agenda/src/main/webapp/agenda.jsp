@@ -27,7 +27,7 @@ ArrayList<JavaBeans> lista = (ArrayList<JavaBeans>) request.getAttribute("contat
 				<a href="main"> <img class="img-agenda logo"
 					src="imagens/notebook.png">
 				</a>
-				<h1>Agenda de contatos</h1>
+
 			</div>
 			<div class="icon">
 				<a href="novo.html"> <img alt="novo contato"
