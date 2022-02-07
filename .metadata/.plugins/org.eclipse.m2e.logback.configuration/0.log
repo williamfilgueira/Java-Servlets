@@ -20,3 +20,5 @@
 2022-02-07 09:50:51,847 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\willi\Documents\Ufn-atos\AtividadesUFN\Professor - Reiner\atos07ConnectionMYSQL\src\test\resources
 2022-02-07 09:51:09,583 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-02-07 09:51:09,583 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\willi\Documents\Ufn-atos\AtividadesUFN\Professor - Reiner\atos07ConnectionMYSQL\src\main\resources
+2022-02-07 09:51:09,586 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 09:51:09,586 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\willi\Documents\Ufn-atos\AtividadesUFN\Professor - Reiner\atos07ConnectionMYSQL\src\test\resources
