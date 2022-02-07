@@ -1,2 +1,22 @@
 2022-02-02 13:48:34,249 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2022-02-02 13:49:12,582 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-02-03 10:10:15,273 [Worker-136: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.ufn:atos07ConnectionMYSQL:0.0.1-SNAPSHOT @ C:\Users\willi\Documents\Ufn-atos\AtividadesUFN\Professor - Reiner\atos07ConnectionMYSQL\pom.xml.
+2022-02-03 10:10:17,080 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-03 10:10:17,090 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\willi\Documents\Ufn-atos\AtividadesUFN\Professor - Reiner\atos07ConnectionMYSQL\src\main\resources
+2022-02-03 10:10:17,095 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-03 10:10:17,095 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\willi\Documents\Ufn-atos\AtividadesUFN\Professor - Reiner\atos07ConnectionMYSQL\src\test\resources
+2022-02-03 10:10:18,419 [Worker-134: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.ufn:atos07ConnectionMYSQL:0.0.1-SNAPSHOT @ C:\Users\willi\Documents\Ufn-atos\AtividadesUFN\Professor - Reiner\atos07ConnectionMYSQL\pom.xml.
+2022-02-03 10:10:19,928 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-03 10:10:19,929 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\willi\Documents\Ufn-atos\AtividadesUFN\Professor - Reiner\atos07ConnectionMYSQL\src\main\resources
+2022-02-03 10:10:19,932 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-03 10:10:19,932 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\willi\Documents\Ufn-atos\AtividadesUFN\Professor - Reiner\atos07ConnectionMYSQL\src\test\resources
+2022-02-04 09:16:05,817 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-02-04 14:52:04,259 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-02-04 16:51:35,302 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-02-07 09:03:52,280 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-02-07 09:50:51,838 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 09:50:51,841 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\willi\Documents\Ufn-atos\AtividadesUFN\Professor - Reiner\atos07ConnectionMYSQL\src\main\resources
+2022-02-07 09:50:51,847 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 09:50:51,847 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\willi\Documents\Ufn-atos\AtividadesUFN\Professor - Reiner\atos07ConnectionMYSQL\src\test\resources
+2022-02-07 09:51:09,583 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 09:51:09,583 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\willi\Documents\Ufn-atos\AtividadesUFN\Professor - Reiner\atos07ConnectionMYSQL\src\main\resources
