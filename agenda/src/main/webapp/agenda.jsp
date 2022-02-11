@@ -40,7 +40,7 @@ ArrayList<JavaBeans> lista = (ArrayList<JavaBeans>) request.getAttribute("contat
 
 	</header>
 	<div class="box-container">
-
+		<p>Today's date: <%= (new java.util.Date()).toLocaleString()%></p>
 
 		<div class="icon"></div>
 

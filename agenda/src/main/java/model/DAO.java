@@ -13,7 +13,7 @@ public class DAO {
 	private String url = "jdbc:mysql://localhost:3306/dbagenda?user=root?useTimezone=true&serverTimezone=UTC";
 
 	private String user = "root";
-	private String password = "Betani@123";
+	private String password = "senha do BD";
 
 //	metodo de conexão
 	private Connection conectar() {
